@@ -1,3 +1,4 @@
 # h_and_m
-h&amp;m dataset from kaggle
+BA775 team project based on SQL and Tableau
+
 Contributors: Jiadai Yu, Shu Wang, Fanfei Zhao,Sixuan Wang, Yuesen Zhang
