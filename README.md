@@ -1,4 +1,4 @@
-# h_and_m
-BA775 team project based on SQL and Tableau
+# BA775 Final Project
+This is the course repository for BA775 based on SQL and Tableau
 
-Contributors: Jiadai Yu, Shu Wang, Fanfei Zhao,Sixuan Wang, Yuesen Zhang
+Final Project Contributors: Jiadai Yu, Shu Wang, Fanfei Zhao,Sixuan Wang, Yuesen Zhang
